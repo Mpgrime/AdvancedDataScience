@@ -1,18 +1,18 @@
-# Data Validation in Microsoft Excel
+# *Data Validation in Microsoft Excel*
 
 
 
-### What is Data Validation?
-
-
-
-
-### Why is Data Validation useful?
+### *What is Data Validation?*
 
 
 
 
-### How do you use it?
+### *Why is Data Validation useful?*
+
+
+
+
+### *How do you use it?*
 
 
 1) 
@@ -24,4 +24,4 @@
 7) 
 
 
-### Data
+### *Data*
