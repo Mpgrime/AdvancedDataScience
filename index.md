@@ -15,7 +15,7 @@ Using data validation can reduce errors when filling in spreadsheets by making s
 Assuming you know how to create an excel spreadsheet, using data validation is simple. In my example, we will use an employee timesheet template. 
 
 1) Select a range of cells to have data validation applied to
-[test](./images/Screenshot%20(14).png)
+![test](./images/Screenshot%20(14).png)
 2) 
 3) 
 4) 
