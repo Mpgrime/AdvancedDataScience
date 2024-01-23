@@ -75,4 +75,4 @@ We will be using "Between" as the modifier.
 
 This has been a brief tutorial on how to use the Data Validation tool within Microsoft Excel. In the below link you will find the spreadsheet I used in the tutorial, with some additional examples not covered above added in. Feel free to play around with the different settings and options, and create some of your own data validation formulae. 
 
-[https://github.com/Mpgrime/AdvancedDataScience]
+[Spreadsheet](https://github.com/Mpgrime/AdvancedDataScience/blob/main/Example.xlsx)
